@@ -47,5 +47,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or suggestions, feel free to reach out:
 - **Name**: Sabit Bin Azad
-- **Email**: mailto:sabitbinaza01@gmail.com
+- **Email**: sabitbinaza01@gmail.com
 - **GitHub**: https://github.com/sabitbinazad
